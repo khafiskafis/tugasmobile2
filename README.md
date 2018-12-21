@@ -5,4 +5,4 @@
 <br> Kelas : 3 </br>
 <br> Tehnik Informatika </br>
 
-<img src="untitlet-1.png">
+<img src="untitlet-1.jpeg">
